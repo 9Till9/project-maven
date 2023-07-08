@@ -43,6 +43,7 @@
         <resources>
             <resource>
                 <directory>${project.build.directory}/dependency</directory>
+                <targetPath>lib/</targetPath>
             </resource>
         </resources>
 
